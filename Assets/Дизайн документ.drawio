@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T22:16:40.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I-hVLHIATvyfBVLcSznq" version="20.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-05T22:32:08.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3rqxGmHrlG-uS1kzkMzN" version="20.5.2" type="github" pages="3">
   <diagram id="M3k7GN3wGjzkZ97uffGP" name="Сторінка-1">
     <mxGraphModel dx="1436" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ze67XmTuFUyFkG_S8vM3" name="Опис систем">
-    <mxGraphModel dx="-349" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-549" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,28 +209,28 @@
           <mxGeometry x="2742" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Посилання:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2500" y="120" width="306" height="90" as="geometry" />
+          <mxGeometry x="2621.5" y="60" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система діалогів&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2500" y="160" width="306" height="90" as="geometry" />
+          <mxGeometry x="2621.5" y="100" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система звуків&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2741" y="120" width="306" height="90" as="geometry" />
+          <mxGeometry x="2880.75" y="60" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система анімацій&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2741" y="160" width="306" height="90" as="geometry" />
+          <mxGeometry x="2880.75" y="100" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система пересування&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2500" y="200" width="306" height="90" as="geometry" />
+          <mxGeometry x="2621.5" y="140" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система статусів&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2741" y="200" width="306" height="90" as="geometry" />
+          <mxGeometry x="2880.75" y="140" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система перевірки землі&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2500" y="280" width="306" height="90" as="geometry" />
+          <mxGeometry x="2621.5" y="220" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-8" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Функціонал&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2742" y="670" width="306" height="90" as="geometry" />
+          <mxGeometry x="2742" y="380" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-10" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Контроллер&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1915" width="306" height="90" as="geometry" />
@@ -257,33 +257,33 @@
           <mxGeometry x="1670" y="980" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-20" value="Функція update" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2812" y="755" width="157" height="60" as="geometry" />
+          <mxGeometry x="2659.25" y="480" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-21" value="0. Зчитуєм сигнал з ігрових пристроїв." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2797.75" y="855" width="185.5" height="60" as="geometry" />
+          <mxGeometry x="2640" y="595" width="185.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DdcLkcS8PyzYOzmbPV-h-20" target="DdcLkcS8PyzYOzmbPV-h-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2722" y="895" as="sourcePoint" />
-            <mxPoint x="2772" y="845" as="targetPoint" />
+            <mxPoint x="2564.25" y="635" as="sourcePoint" />
+            <mxPoint x="2614.25" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-23" value="1. Передаєм сигнал систему руху." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2662.25" y="965" width="185.5" height="80" as="geometry" />
+          <mxGeometry x="2515.25" y="750" width="185.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdcLkcS8PyzYOzmbPV-h-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DdcLkcS8PyzYOzmbPV-h-21" target="DdcLkcS8PyzYOzmbPV-h-23" edge="1">
+        <mxCell id="DdcLkcS8PyzYOzmbPV-h-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DdcLkcS8PyzYOzmbPV-h-21" target="DdcLkcS8PyzYOzmbPV-h-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2755" y="945" as="sourcePoint" />
-            <mxPoint x="2772" y="945" as="targetPoint" />
+            <mxPoint x="2743.5" y="700" as="sourcePoint" />
+            <mxPoint x="2625" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-26" value="2. Персонаж рухається." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2628" y="1075" width="254" height="80" as="geometry" />
+          <mxGeometry x="2481" y="860" width="254" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DdcLkcS8PyzYOzmbPV-h-23" target="DdcLkcS8PyzYOzmbPV-h-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2762" y="1075" as="sourcePoint" />
-            <mxPoint x="3017.75" y="945" as="targetPoint" />
+            <mxPoint x="2615" y="860" as="sourcePoint" />
+            <mxPoint x="2870.75" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-29" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;Персонаж&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -296,7 +296,7 @@
           <mxGeometry x="3330" y="180" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система камери&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2741" y="240" width="306" height="90" as="geometry" />
+          <mxGeometry x="2880.75" y="180" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DdcLkcS8PyzYOzmbPV-h-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Силою прижка&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3330" y="250" width="306" height="90" as="geometry" />
@@ -308,25 +308,97 @@
           <mxGeometry x="1670" y="430" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4HghBEFKxQXQywCMYmiV-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система перевірки Здоров&#39;я(hp)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="240" width="306" height="90" as="geometry" />
+          <mxGeometry x="2621.5" y="180" width="306" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4HghBEFKxQXQywCMYmiV-4" value="1. Передаєм сигнал систему камери." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2942" y="965" width="185.5" height="80" as="geometry" />
+          <mxGeometry x="2795" y="750" width="185.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4HghBEFKxQXQywCMYmiV-5" value="2.&amp;nbsp; В персонажа рухається камера." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2908" y="1075" width="254" height="80" as="geometry" />
+          <mxGeometry x="2761" y="860" width="254" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4HghBEFKxQXQywCMYmiV-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdcLkcS8PyzYOzmbPV-h-21" target="4HghBEFKxQXQywCMYmiV-4">
+        <mxCell id="4HghBEFKxQXQywCMYmiV-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdcLkcS8PyzYOzmbPV-h-21" target="4HghBEFKxQXQywCMYmiV-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2900.5" y="925.0000000000002" as="sourcePoint" />
-            <mxPoint x="3042" y="975" as="targetPoint" />
+            <mxPoint x="2733" y="650" as="sourcePoint" />
+            <mxPoint x="2895" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4HghBEFKxQXQywCMYmiV-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4HghBEFKxQXQywCMYmiV-4" target="4HghBEFKxQXQywCMYmiV-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2900.5" y="925.0000000000002" as="sourcePoint" />
-            <mxPoint x="3044.75" y="975.0000000000002" as="targetPoint" />
+            <mxPoint x="2753.5" y="710.0000000000002" as="sourcePoint" />
+            <mxPoint x="2897.75" y="760.0000000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-2" value="1. Передаєм сигнал систему руху." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2515.25" y="750" width="185.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-3" value="2. Персонаж рухається." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="860" width="254" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="hVGw3fteosh5bGaEGicV-2" target="hVGw3fteosh5bGaEGicV-3" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2615" y="860" as="sourcePoint" />
+            <mxPoint x="2870.75" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-5" value="1. Передаєм сигнал систему камери." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2795" y="750" width="185.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-6" value="2.&amp;nbsp; В персонажа рухається камера." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2761" y="860" width="254" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="hVGw3fteosh5bGaEGicV-5" target="hVGw3fteosh5bGaEGicV-6" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2753.5" y="710.0000000000002" as="sourcePoint" />
+            <mxPoint x="2897.75" y="760.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdcLkcS8PyzYOzmbPV-h-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2770" y="660" as="sourcePoint" />
+            <mxPoint x="3157" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdcLkcS8PyzYOzmbPV-h-21" target="hVGw3fteosh5bGaEGicV-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3138.5" y="390" as="sourcePoint" />
+            <mxPoint x="3136.75" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-10" value="1. Передаєм сигнал систему прижка." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3064.25" y="750" width="185.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-11" value="2. Персонаж стрибає." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="860" width="254" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hVGw3fteosh5bGaEGicV-10" target="hVGw3fteosh5bGaEGicV-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3164" y="860" as="sourcePoint" />
+            <mxPoint x="3419.75" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-13" value="1. Передаєм сигнал систему інвентаря." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2984" y="490" width="185.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-14" value="2.&amp;nbsp; В персонажа в інвентарі зявляються предмети, запчастини і тд." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="600" width="254" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hVGw3fteosh5bGaEGicV-13" target="hVGw3fteosh5bGaEGicV-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2942.5" y="450.0000000000002" as="sourcePoint" />
+            <mxPoint x="3086.75" y="500.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система стривбків&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2880.75" y="220" width="306" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система інвентаря&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2880.75" y="260" width="306" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Система перевірки інвентаря&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2621.5" y="260" width="306" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hVGw3fteosh5bGaEGicV-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Швидкість пересування&amp;nbsp; камери&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="400" width="306" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
