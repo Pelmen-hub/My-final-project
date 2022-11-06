@@ -1,20 +1,22 @@
  using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class NewBehaviourScript : MonoBehaviour
+
+public class LoadScene : MonoBehaviour
 {
    
 
-    private Scene scene;
 
-    private void Start()
+  
+        
+    public void LoadScenebuybutton()
     {
-        var parameters = new LoadSceneParameters(LoadSceneMode.Additive);
-
-        scene = SceneManager.LoadScene(0);
+        SceneManager.LoadScene(0);
 
     }
+    
     // Start is called before the first frame update
     void Start()
     {
